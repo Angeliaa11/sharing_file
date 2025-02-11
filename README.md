@@ -22,6 +22,17 @@
 
 6. klik pada bagian **"properties"**
 
+   ![Image](https://github.com/user-attachments/assets/76069968-9cde-4177-ab8b-e255ce6ec026)
+
+7. klik seperti pada gambar
+   
+   ![Image](https://github.com/user-attachments/assets/169e6fa5-be8c-497c-b172-4f27ff240af0)
+
+8. lalu masukkan **"ip address"**
+
+   
+
+
    
 
 
