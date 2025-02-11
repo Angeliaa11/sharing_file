@@ -4,15 +4,17 @@
    
    ![Image](https://github.com/user-attachments/assets/cee764a9-0a10-46a1-b9a1-a433d1c3f569)
 
-2. Langkah kedua, buka **"control panel"** pada windows
+   ![Image](https://github.com/user-attachments/assets/e26349fd-3a9a-40f1-b394-5928751ad5f8)
+
+3. Langkah kedua, buka **"control panel"** pada windows
 
    ![Image](https://github.com/user-attachments/assets/f7cdd89d-563d-4e5f-9fae-19df1cb0544f)
 
-3. lalu klik **"network and internet"**
+4. lalu klik **"network and internet"**
 
    ![Image](https://github.com/user-attachments/assets/8a5aa8db-c217-4718-a031-84bb55eca854)
 
-4. klik **"network and sharing center"**
+5. klik **"network and sharing center"**
 
   ![Image](https://github.com/user-attachments/assets/bb962f95-c217-4fad-8543-f52474c19c5f)
 
@@ -33,6 +35,14 @@
    ![Image](https://github.com/user-attachments/assets/59134905-fbc1-40bc-b591-79a963d49f69)
 
 9. sebelum membuat, jangan lupa untuk mematikan **firewall**. caranya sebagai berikut pada gambar
+
+     ![Image](https://github.com/user-attachments/assets/f7cdd89d-563d-4e5f-9fae-19df1cb0544f)
+
+     ![Image](https://github.com/user-attachments/assets/f117f3a0-0787-46f6-8f69-7fd0a54bfd13)
+
+     ![Image](https://github.com/user-attachments/assets/a6716dc1-b4c6-429c-8a8d-c721ace1c5ad)
+
+     ![Image](https://github.com/user-attachments/assets/fad2d952-1dfc-4e07-839c-8d0f2766b571)
 
     
 
