@@ -69,10 +69,14 @@
 
    ![Image](https://github.com/user-attachments/assets/4b1c3c75-0c78-4d25-8705-8365d030e99d)
    
-14. masukkan **user dan password laptop 2**
+14. selanjutnya, bisa dicari di folder **"nama file pada laptop 2 di laptop 1"**
+    
+   ![Image](https://github.com/user-attachments/assets/727f9bd7-cf6a-48d2-a796-e0d3d06cf3ad)
+   
+15. masukkan **user dan password laptop 2**
    ![Image](https://github.com/user-attachments/assets/b4a8efaf-b054-46b9-b0ca-2475abd6bb99)
 
-15. ini adalah file dari laptop 2
+16. ini adalah file dari laptop 2
 
    ![Image](https://github.com/user-attachments/assets/c6b78877-709c-4b30-b66f-50114c738390)
 
