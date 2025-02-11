@@ -54,9 +54,17 @@
 
    ![Image](https://github.com/user-attachments/assets/cad58a2c-5ab3-49e5-af2d-1908faae7b40)
 
-12. buat folder untuk **di share**
+12. buat folder dan namai untuk **di share**
 
    ![Image](https://github.com/user-attachments/assets/83ace65d-5cf1-43e2-9954-8f002d500ee2)
+
+   ![Image](https://github.com/user-attachments/assets/bdca958f-eb6c-4de0-ab0a-7740fdbcd3e9)
+
+   ![Image](https://github.com/user-attachments/assets/53818346-7b0d-4ce1-8bd4-1f1f6ceacffc)
+
+13. langkah selanjutnya, **share file/folder yang berisi file tersebut**
+
+    
 
    
 
