@@ -2,19 +2,17 @@
 ---
 1. Langkah pertama sambungkan kabel UTP ke 2 laptop
    
-   ![Image](https://github.com/user-attachments/assets/cee764a9-0a10-46a1-b9a1-a433d1c3f569)
+  ![Image](https://github.com/user-attachments/assets/bbb4e555-8934-4df3-bfca-11a627ecd9d0)
 
-   ![Image](https://github.com/user-attachments/assets/e26349fd-3a9a-40f1-b394-5928751ad5f8)
-
-3. Langkah kedua, buka **"control panel"** pada windows
+2. Langkah kedua, buka **"control panel"** pada windows
 
    ![Image](https://github.com/user-attachments/assets/f7cdd89d-563d-4e5f-9fae-19df1cb0544f)
 
-4. lalu klik **"network and internet"**
+3. lalu klik **"network and internet"**
 
    ![Image](https://github.com/user-attachments/assets/8a5aa8db-c217-4718-a031-84bb55eca854)
 
-5. klik **"network and sharing center"**
+4. klik **"network and sharing center"**
 
   ![Image](https://github.com/user-attachments/assets/bb962f95-c217-4fad-8543-f52474c19c5f)
 
@@ -63,6 +61,12 @@
    ![Image](https://github.com/user-attachments/assets/53818346-7b0d-4ce1-8bd4-1f1f6ceacffc)
 
 13. langkah selanjutnya, **share file/folder yang berisi file tersebut**
+
+
+   ![Image](https://github.com/user-attachments/assets/48601c2d-a765-4cad-911f-990b2a64e5a8)
+
+   
+
 
     
 
