@@ -18,6 +18,13 @@
 
 5. klik **"ethernet"**
 
+   ![Image](https://github.com/user-attachments/assets/f6375f88-5b4c-4a78-ab4b-ea7b4d1078a6)
+
+6. klik pada bagian **"properties"**
+
+   
+
+
    
    
    
