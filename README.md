@@ -60,10 +60,21 @@
 
    ![Image](https://github.com/user-attachments/assets/53818346-7b0d-4ce1-8bd4-1f1f6ceacffc)
 
-13. langkah selanjutnya, **share file/folder yang berisi file tersebut**
+13. langkah selanjutnya, **share file/folder yang berisi file** tersebut
 
 
    ![Image](https://github.com/user-attachments/assets/48601c2d-a765-4cad-911f-990b2a64e5a8)
+
+   ![Image](https://github.com/user-attachments/assets/b55e1756-d5c1-422e-966c-f99b537e0d0c)
+
+   ![Image](https://github.com/user-attachments/assets/4b1c3c75-0c78-4d25-8705-8365d030e99d)
+   
+14. masukkan **user dan password laptop 2**
+   ![Image](https://github.com/user-attachments/assets/b4a8efaf-b054-46b9-b0ca-2475abd6bb99)
+
+15. ini adalah file dari laptop 2
+
+   ![Image](https://github.com/user-attachments/assets/c6b78877-709c-4b30-b66f-50114c738390)
 
    
 
