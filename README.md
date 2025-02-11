@@ -2,7 +2,9 @@
 ---
 1. Langkah pertama sambungkan kabel UTP ke 2 laptop
    
-   ![Image](https://github.com/user-attachments/assets/ba4a024e-7159-4c37-b044-7a167a47ebfe)
+   ![Image](https://github.com/user-attachments/assets/cee764a9-0a10-46a1-b9a1-a433d1c3f569)
+
+
 
    
    
