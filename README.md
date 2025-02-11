@@ -30,6 +30,12 @@
 
 8. lalu masukkan **"ip address"**
 
+   ![Image](https://github.com/user-attachments/assets/59134905-fbc1-40bc-b591-79a963d49f69)
+
+9. sebelum membuat, jangan lupa untuk mematikan **firewall**. caranya sebagai berikut pada gambar
+
+    
+
    
 
 
