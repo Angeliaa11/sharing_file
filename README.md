@@ -42,11 +42,23 @@
 
      ![Image](https://github.com/user-attachments/assets/a6716dc1-b4c6-429c-8a8d-c721ace1c5ad)
 
-     ![Image](https://github.com/user-attachments/assets/fad2d952-1dfc-4e07-839c-8d0f2766b571)
+     ![Image](https://github.com/user-attachments/assets/dc51410f-047f-4788-9e99-5898d957a3db)
 
      ![Image](https://github.com/user-attachments/assets/d18c9af7-e196-4a4c-8edb-53de1c03bd8d)
 
-10. 
+10. selanjutnya, buka **command/terminal** di windows
+
+   ![Image](https://github.com/user-attachments/assets/b1b69923-b65b-4e9f-9dd7-1d2a0c7154b5)
+
+11. jalankan perintah dibawah ini di **command/terminal**
+
+   ![Image](https://github.com/user-attachments/assets/cad58a2c-5ab3-49e5-af2d-1908faae7b40)
+
+12. buat folder untuk **di share**
+
+   ![Image](https://github.com/user-attachments/assets/83ace65d-5cf1-43e2-9954-8f002d500ee2)
+
+   
 
     
 
