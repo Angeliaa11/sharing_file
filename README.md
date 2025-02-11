@@ -4,6 +4,9 @@
    
    ![Image](https://github.com/user-attachments/assets/cee764a9-0a10-46a1-b9a1-a433d1c3f569)
 
+2. Langkah kedua, buka **"control panel"** pada windows
+   
+
 
 
    
