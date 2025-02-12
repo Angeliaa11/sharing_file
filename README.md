@@ -1,5 +1,9 @@
 Nama  : Angelia Sari Hotma
+
 Nim   : 09030282327020
+
+Kelas : TK 4 C
+
 
 ## Langkah-Langkah menghubungan 2 laptop menggunakan kabel LAN untuk sharing file
 ---
